@@ -120,7 +120,8 @@ Type or paste your text directly into the terminal
 
 Press Ctrl+D (Mac/Linux) or Ctrl+Z then Enter (Windows) when finished
 
-    Selecting Data to Extract
+-select the data to extract 
+
 After choosing your text source, you'll see this selection menu:
 
 Available fields to extract:
